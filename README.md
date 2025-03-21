@@ -1,5 +1,6 @@
 ![credit_card](https://github.com/user-attachments/assets/6bec7a86-fa61-4365-90b3-5a2fc5a30407)
-Credit Card Fraud Detection
+
+#Credit Card Fraud Detection#
 
 Problem Statement
 
